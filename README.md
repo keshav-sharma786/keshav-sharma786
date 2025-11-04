@@ -1,9 +1,15 @@
-## Hi there 👋
+## Hi 👋 I am Keshav Sharma
+  ## Full Stack Developer
 
-<!--
-**keshav-sharma786/keshav-sharma786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📫 How to reach me: keshavbhambi@gmail.com 
+📄 Connect with me: [LinkedIn](https://shorturl.at/2NUTN)  
+📄 Leetcode Profile: [Leetcode](https://leetcode.com/u/Keshavam/)  
+⚡ Fun fact: I love solving real-world problems with code. 
 
-Here are some ideas to get you started:
+### Connect with me:
+<a href="https://shorturl.at/2NUTN" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png"/>
+</a>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
