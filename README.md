@@ -3,7 +3,7 @@
 
 📫 How to reach me: keshavbhambi@gmail.com 
 📄 Connect with me: [LinkedIn](https://shorturl.at/2NUTN)  
-📄 Leetcode Profile: [Leetcode](https://leetcode.com/u/Keshavam/)  
+📄 Leetcode Profile: [Leetcode](https://leetcode.com/u/KeshavSharma_/)  
 ⚡ Fun fact: I love solving real-world problems with code. 
 
 ### Connect with me:
